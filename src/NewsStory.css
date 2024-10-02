@@ -1,0 +1,26 @@
+.news-story {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    width: 300px;
+    text-align: left;
+  }
+  
+  .news-story img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .news-story h2 {
+    font-size: 1.5em;
+  }
+  
+  .news-story a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .news-story a:hover {
+    text-decoration: underline;
+  }
+  
